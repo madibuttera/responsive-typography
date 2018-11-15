@@ -47,12 +47,13 @@ article ol {
 
 article h1 {
   font-weight: normal;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 article header {
   border-bottom: 1px solid #999;
   margin-bottom: 1.3rem;
+  padding-top: 1.3rem;
 }
 
 article header p {
@@ -106,6 +107,7 @@ blockquote {
 
   article header {
     margin-bottom: 1.4rem;
+    padding-top: 1.4rem;
   }
 
   article > p:last-child {
@@ -141,6 +143,7 @@ blockquote {
 
   article header {
     margin-bottom: 1.5rem;
+    padding-top: 1.5rem;
   }
 
   article > p:last-child {
