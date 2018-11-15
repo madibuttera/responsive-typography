@@ -12,6 +12,7 @@ html {
   text-size-adjust: 100%;
 
   color: #222;
+  font-family: "Crimson Text", sans-serif;
 }
 
 *, *::before, *::after {
