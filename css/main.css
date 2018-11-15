@@ -27,7 +27,7 @@ body {
 
 article {
   max-width: 43em;
-  margin: 1.3em;
+  margin: 1.3em .6em;
 }
 
 article p {
