@@ -30,7 +30,7 @@ article {
 }
 
 article p {
-
+  padding-top: .5em;
 }
 
 article ol {
@@ -100,4 +100,5 @@ blockquote {
   html {
     font-size: 130%;
   }
+
 }
