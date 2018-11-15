@@ -55,6 +55,7 @@ article header p {
 
 article > p:last-child {
   border-bottom: 1px solid #999;
+  padding-bottom: 1em;
 }
 
 blockquote {
