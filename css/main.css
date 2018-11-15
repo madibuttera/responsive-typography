@@ -44,6 +44,8 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .quote {
