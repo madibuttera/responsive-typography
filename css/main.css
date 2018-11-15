@@ -107,10 +107,6 @@ blockquote {
     margin-bottom: 1.4rem;
   }
 
-  article header {
-    margin-bottom: 1.4rem;
-  }
-
   article > p:last-child {
     margin-bottom: 1.4rem;
   }
@@ -138,10 +134,6 @@ blockquote {
   }
 
   article ol {
-    margin-bottom: 1.5rem;
-  }
-
-  article header {
     margin-bottom: 1.5rem;
   }
 
