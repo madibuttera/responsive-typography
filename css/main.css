@@ -13,6 +13,7 @@ html {
 
   color: #222;
   font-family: "Crimson Text", sans-serif;
+  line-height: 1.3;
 }
 
 *, *::before, *::after {
